@@ -12,17 +12,14 @@
   <component name="ChangeListManager">
     <list default="true" id="3f20cf6b-2327-4116-954d-8fdf22a68dfa" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Actions/SavePhoneForUser.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Actions/SavePhoneForUser.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/User.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/Unit/Actions/CreateUserActionTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Unit/Actions/CreateUserActionTest.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/Unit/Actions/SavePhoneForUserActionTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Unit/Actions/SavePhoneForUserActionTest.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
@@ -149,7 +146,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/tests/Unit/Actions" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -174,6 +171,7 @@
       <option name="presentableId" value="Default" />
       <updated>1599098873903</updated>
       <workItem from="1599098875350" duration="871000" />
+      <workItem from="1599147683854" duration="827000" />
     </task>
     <servers />
   </component>
@@ -190,6 +188,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="757" y="211" width="395" height="664" key="#com.intellij.ide.util.MemberChooser" timestamp="1599099703997">

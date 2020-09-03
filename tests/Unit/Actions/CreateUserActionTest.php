@@ -19,8 +19,26 @@ class CreateUserActionTest extends TestCase
 
     public function testShouldReturnUserWhenHasValidData()
     {
-        $result = $this->action->execute(['name' => 'Danilo'], new UserRepository());
-        $this->assertInstanceOf(User::class, $result);
+        $user = $this->action->execute(['name' => 'Danilo'], new UserRepository());
+
+        $this->assertInstanceOf(User::class, $user);
+        $this->assertDatabaseMissing('user_phones', [
+            'user_id' => $user->id,
+        ]);
+    }
+
+    public function testShouldReturnUserWhenHasValidDataAndSavePhone()
+    {
+        $user = $this->action
+            ->execute(
+                ['name' => 'Danilo', 'phone' => '123456'],
+                new UserRepository()
+            );
+        $this->assertInstanceOf(User::class, $user);
+        $this->assertDatabaseHas('user_phones', [
+            'user_id' => $user->id,
+            'phone' => '123456'
+        ]);
     }
 
     public function testShouldThrowExceptionWhenDataIsEmpty()
