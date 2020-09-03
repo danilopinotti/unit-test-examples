@@ -11,10 +11,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f20cf6b-2327-4116-954d-8fdf22a68dfa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tests/Unit/Actions/CreateUserActionTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/Unit/Actions/SavePhoneForUserActionTest.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/Unit/ExampleTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Actions/SavePhoneForUser.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Actions/SavePhoneForUser.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Unit/Actions/CreateUserActionTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Unit/Actions/CreateUserActionTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Unit/Actions/SavePhoneForUserActionTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Unit/Actions/SavePhoneForUserActionTest.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

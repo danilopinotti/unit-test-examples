@@ -13,6 +13,8 @@ class SavePhoneForUser
             throw new \InvalidArgumentException('Phone cannot be an empty string');
         }
 
+        $user->savePhone($phone);
+
         return $phone;
     }
 }
