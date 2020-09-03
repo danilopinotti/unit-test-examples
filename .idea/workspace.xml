@@ -12,8 +12,8 @@
   <component name="ChangeListManager">
     <list default="true" id="3f20cf6b-2327-4116-954d-8fdf22a68dfa" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Actions/SavePhoneForUser.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Actions/SavePhoneForUser.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Actions/CreateUserAction.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Actions/CreateUserAction.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Actions/SavePhoneForUser.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Actions/SavePhoneForUserAction.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/Unit/Actions/CreateUserActionTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Unit/Actions/CreateUserActionTest.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/Unit/Actions/SavePhoneForUserActionTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Unit/Actions/SavePhoneForUserActionTest.php" afterDir="false" />
     </list>
@@ -196,13 +196,17 @@
       <screen x="0" y="171" width="1920" height="909" />
     </state>
     <state x="757" y="211" width="395" height="664" key="#com.intellij.ide.util.MemberChooser/1920.144.1366.768/0.171.1920.909@0.171.1920.909" timestamp="1599099703997" />
-    <state x="549" y="142" width="811" height="803" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1599099407068">
+    <state x="549" y="142" width="811" height="803" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1599100962250">
       <screen x="0" y="171" width="1920" height="909" />
     </state>
-    <state x="549" y="142" width="811" height="803" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/1920.144.1366.768/0.171.1920.909@0.171.1920.909" timestamp="1599099407068" />
+    <state x="549" y="142" width="811" height="803" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/1920.144.1366.768/0.171.1920.909@0.171.1920.909" timestamp="1599100962250" />
     <state x="1101" y="307" width="667" height="617" key="NewPhpClassDialog" timestamp="1599099581808">
       <screen x="0" y="171" width="1920" height="909" />
     </state>
     <state x="1101" y="307" width="667" height="617" key="NewPhpClassDialog/1920.144.1366.768/0.171.1920.909@0.171.1920.909" timestamp="1599099581808" />
+    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1599100747445">
+      <screen x="0" y="171" width="1920" height="909" />
+    </state>
+    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup/1920.144.1366.768/0.171.1920.909@0.171.1920.909" timestamp="1599100747445" />
   </component>
 </project>

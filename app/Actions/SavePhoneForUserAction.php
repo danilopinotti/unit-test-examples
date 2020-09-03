@@ -5,7 +5,7 @@ namespace App\Actions;
 
 use App\User;
 
-class SavePhoneForUser
+class SavePhoneForUserAction
 {
     public function execute(User $user, string $phone): string
     {
