@@ -11,9 +11,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f20cf6b-2327-4116-954d-8fdf22a68dfa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/Actions/CreateUserAction.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Phone.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Repositories/UserRepository.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Unit/Actions/CreateUserActionTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Unit/Actions/SavePhoneForUserActionTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Unit/ExampleTest.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,9 +148,15 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/tests/Unit/Actions" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tests/Unit/Actions" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -165,7 +172,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599098873903</updated>
-      <workItem from="1599098875350" duration="532000" />
+      <workItem from="1599098875350" duration="871000" />
     </task>
     <servers />
   </component>
@@ -184,13 +191,17 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="757" y="211" width="395" height="664" key="#com.intellij.ide.util.MemberChooser" timestamp="1599099703997">
+      <screen x="0" y="171" width="1920" height="909" />
+    </state>
+    <state x="757" y="211" width="395" height="664" key="#com.intellij.ide.util.MemberChooser/1920.144.1366.768/0.171.1920.909@0.171.1920.909" timestamp="1599099703997" />
     <state x="549" y="142" width="811" height="803" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1599099407068">
       <screen x="0" y="171" width="1920" height="909" />
     </state>
     <state x="549" y="142" width="811" height="803" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/1920.144.1366.768/0.171.1920.909@0.171.1920.909" timestamp="1599099407068" />
-    <state x="674" y="249" width="653" height="610" key="NewPhpClassDialog" timestamp="1599099220899">
+    <state x="1101" y="307" width="667" height="617" key="NewPhpClassDialog" timestamp="1599099581808">
       <screen x="0" y="171" width="1920" height="909" />
     </state>
-    <state x="674" y="249" width="653" height="610" key="NewPhpClassDialog/1920.144.1366.768/0.171.1920.909@0.171.1920.909" timestamp="1599099220899" />
+    <state x="1101" y="307" width="667" height="617" key="NewPhpClassDialog/1920.144.1366.768/0.171.1920.909@0.171.1920.909" timestamp="1599099581808" />
   </component>
 </project>
